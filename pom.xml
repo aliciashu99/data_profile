@@ -97,7 +97,7 @@
             <manifest>
               <addClasspath>true</addClasspath>
               <classpathPrefix>lib/</classpathPrefix>
-              <mainClass>io.infoworks.App</mainClass>
+              <mainClass>io.infoworks.TableProfiler</mainClass>
             </manifest>
           </archive>
         </configuration>

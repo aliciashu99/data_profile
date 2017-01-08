@@ -3,7 +3,7 @@
 # Use this for running in the cluster mode.
 
 /Users/ashu/spark-2.0.2-bin-hadoop2.7/bin/spark-submit \
-  --class io.infoworks.App \
+  --class io.infoworks.TableProfiler \
   --num-executors 1 \
   --driver-memory 1g \
   --executor-memory 1g \
